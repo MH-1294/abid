@@ -2,17 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Student ·Machine Learning & AI · University of Regina
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office Number: CW 308.4</p>
+    <p>College West, 3737 Wascana Pkwy, Regina, SK S4S 0A2</p>
+    <p>Regina, SK, Canada</p>
 
+<!--
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -25,7 +26,7 @@ latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
----
+--->
 I am **Dm. Mehedi Hasan Abid**, a PhD student in the [Department of Computer Science](https://www.uregina.ca/science/cs/) at the **University of Regina, Canada**, working under the supervision of [Dr. JingTao Yao](https://www2.cs.uregina.ca/~jtyao/). My research interests focus on [Three-Way Clustering](https://doi.org/10.1016/j.ins.2022.08.005), [Explainable Deep Learning](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence), and **Adversarial Robustness**, with applications in agriculture, healthcare, and sustainable AI systems.
 
 Previously, I served as a [Lecturer and Instructional Designer](https://daffodilvarsity.edu.bd/admin-detail/abid-663f56f16600) at Daffodil International University (DIU), Bangladesh. I taught undergraduate courses, supervised thesis projects, and supported academic program development at the Human Resource Development Institute (HRDI). My work bridges **research, teaching, and real-world deployment** of intelligent systems.
