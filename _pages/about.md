@@ -6,7 +6,7 @@ subtitle: PhD Student ·Machine Learning & AI · University of Regina
 
 profile:
   align: right
-  image: mehedi_pic.jpg
+  image: assets/img/prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office Number: CW 308.4</p>
