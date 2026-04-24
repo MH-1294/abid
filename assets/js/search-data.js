@@ -433,9 +433,9 @@ ninja.data = [{
           description: "MVP prototype for real-life English speaking practice for daily situations.",
           section: "Projects",handler: () => {
               window.location.href = "/abid/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-ml-amp-dl-research-experiments",
+          title: 'ML &amp;amp; DL Research Experiments',
+          description: "Experimental machine learning pipelines supporting research development.",
           section: "Projects",handler: () => {
               window.location.href = "/abid/projects/3_project/";
             },},{id: "projects-project-4",
