@@ -7,10 +7,6 @@ nav: true
 nav_order: 7
 ---
 
-## Collaborators
-
----
-
 #### Doctoral Supervisor
 
 **Dr. JingTao Yao**  
