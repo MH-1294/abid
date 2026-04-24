@@ -19,12 +19,24 @@ nav_order: 7
 </div>
 </div>
 
-<div class="col-sm-6 mt-3 mt-md-0">
+## Ongoing Research Collaborations
+
+<div class="row">
+
+<div class="col-sm-6 mt-3">
 <div class="card">
 <div class="card-body">
-<h5 class="card-title">Dm. Mehedi Hasan Abid</h5>
-<p class="card-text">PhD student in Computer Science at the University of Regina. Research interests include Machine Learning, Explainable AI, and Three-Way Clustering.</p>
-<a href="https://mh-1294.github.io/abid/" target="_blank">View Profile</a>
+<h5 class="card-title">Uncertainty-Aware K-Means Clustering</h5>
+<p class="card-text">
+Ongoing research collaboration focusing on incorporating uncertainty into traditional clustering methods for improved decision-making.
+</p>
+
+<p><strong>Collaborators:</strong><br>
+Lecturer, Daffodil International University<br>
+Student Researcher, DIU
+</p>
+
+<p><strong>Status:</strong> Ongoing</p>
 </div>
 </div>
 </div>
