@@ -16,7 +16,9 @@
       institution: Daffodil International University, Bangladesh
       year: (Add Year)
 
-- title: Academic Experience
+---
+
+- title: Teaching and Academic Experience
   type: time_table
   contents:
     - title: University Teaching Fellow (Course Instructor)
@@ -29,13 +31,13 @@
       institution: University of Regina
       year: 2025
       description:
-        - Conducted labs for CS 110 – Programming and Problem Solving
+        - Conducted lab sessions for CS 110 and supported hands-on programming learning
 
     - title: Teaching Assistant
       institution: University of Regina
       year: 2024 – 2025
       description:
-        - CS 320 – Artificial Intelligence
+        - CS 320 – Introduction to Artificial Intelligence
         - CS 301 – Digital Systems Architecture
         - CS 372 – Software Engineering
 
@@ -43,7 +45,21 @@
       institution: Daffodil International University
       year: 2019 – 2021
       description:
-        - Taught Programming, Data Structures, Algorithms, Networking
+        - Taught Programming, Data Structures, Algorithms, and Computer Networks
+
+---
+
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Research Assistant
+      institution: University of Regina (Centre for Teaching and Learning)
+      year: 2025
+      description:
+        - Conducted institutional research and data analysis
+        - Developed structured datasets and documentation for academic initiatives
+
+---
 
 - title: Publications
   type: time_table
@@ -51,7 +67,7 @@
     - title: Rule-Based Classification and Clustering for Thematic Analysis of Research Papers
       year: 2025
       description:
-        - IEEE CCWC (Accepted)
+        - IEEE Computing and Communication Workshop and Conference (CCWC) (Accepted)
 
     - title: A Machine Learning Approach to Predict SEER Cancer
       year: 2023
@@ -68,6 +84,28 @@
       description:
         - Springer
 
+---
+
+- title: Selected Projects
+  type: time_table
+  contents:
+    - title: AgroVision AI
+      year: 2026
+      description:
+        - Lightweight AI system for crop disease detection, severity analysis, and explainable decision support
+
+    - title: DailySpeak
+      year: 2026
+      description:
+        - MVP platform for real-life English communication practice using scenario-based learning
+
+    - title: ML & DL Research Experiments
+      year: 2026
+      description:
+        - Collection of experimental pipelines supporting model development and research evaluation
+
+---
+
 - title: Awards and Recognition
   type: time_table
   contents:
@@ -80,14 +118,16 @@
       items:
         - Entrance Scholarship, PhD, University of Regina
 
+---
+
 - title: Research Interests
   type: nested_list
   contents:
     - title: Core Areas
       items:
         - Machine Learning
-        - Explainable AI
-        - Three-Way Clustering
+        - Explainable AI (XAI)
+        - Three-Way Decision Theory and Clustering
 
     - title: Applied Areas
       items:
