@@ -412,16 +412,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/abid/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/abid/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-started-my-phd-in-computer-science-at-the-university-of-regina-canada-under-the-supervision-of-dr-jingtao-yao",
           title: 'Started my PhD in Computer Science at the University of Regina, Canada, under...',
+          description: "",
+          section: "News",},{id: "news-received-1st-place-poster-presentation-at-research-week-2025-university-of-regina",
+          title: 'Received 1st Place (Poster Presentation) at Research Week 2025, University of Regina.',
           description: "",
           section: "News",},{id: "projects-agrovision-ai",
           title: 'AgroVision AI',
