@@ -16,7 +16,7 @@ profile:
 social: true
 ---
 
-I am **Dm. Mehedi Hasan Abid**, a PhD student in the [Department of Computer Science](https://www.uregina.ca/science/cs/) at the **[University of Regina, Canada]** (https://www.uregina.ca), working under the supervision of [Dr. JingTao Yao](https://www2.cs.uregina.ca/~jtyao/).
+I am **Dm. Mehedi Hasan Abid**, a PhD student in the [Department of Computer Science](https://www.uregina.ca/science/cs/) at the **[University of Regina, Canada](https://www.uregina.ca)**, working under the supervision of [Dr. JingTao Yao](https://www2.cs.uregina.ca/~jtyao/).
 
 My research focuses on **Machine Learning, Explainable Artificial Intelligence (XAI) and Three-way clustering**, with an emphasis on building **interpretable, reliable, and efficient AI systems** for real-world applications.
 
