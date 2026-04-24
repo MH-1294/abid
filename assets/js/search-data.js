@@ -428,9 +428,9 @@ ninja.data = [{
           description: "AI-based crop disease detection and severity analysis system for real-world agricultural decision support.",
           section: "Projects",handler: () => {
               window.location.href = "/abid/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-dailyspeak",
+          title: 'DailySpeak',
+          description: "MVP prototype for real-life English speaking practice for daily situations.",
           section: "Projects",handler: () => {
               window.location.href = "/abid/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
