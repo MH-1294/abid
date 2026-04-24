@@ -504,13 +504,6 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/mhabid# your LinkedIn user name", "_blank");
         },
       },{
-        id: 'social-medium',
-        title: 'Medium',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://medium.com/@dmabid2050", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
