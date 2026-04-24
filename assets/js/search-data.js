@@ -438,11 +438,6 @@ ninja.data = [{
           description: "Experimental machine learning pipelines supporting research development.",
           section: "Projects",handler: () => {
               window.location.href = "/abid/projects/3_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/abid/projects/5_project/";
             },},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
