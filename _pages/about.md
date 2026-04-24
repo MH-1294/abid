@@ -24,7 +24,7 @@ My current work explores **three-way clustering, uncertainty-aware learning, and
 
 ---
 
-### Academic & Professional Background
+#### Academic & Professional Background
 
 Previously, I served as a [**Lecturer and Senior Administrative Officer**](https://daffodilvarsity.edu.bd/admin-detail/abid-663f56f16600) at [Daffodil International University (DIU), Bangladesh](https://daffodilvarsity.edu.bd/). I taught undergraduate courses, supervised thesis projects, and contributed to academic program development at the **Human Resource Development Institute (HRDI)**.
 
@@ -34,7 +34,7 @@ My work bridges **research, teaching, and real-world deployment of intelligent s
 
 ---
 
-###  Research Interests
+####  Research Interests
 
 - Machine Learning  
 - Explainable AI (XAI)  
@@ -44,7 +44,7 @@ My work bridges **research, teaching, and real-world deployment of intelligent s
 
 ---
 
-###  Collaboration
+####  Collaboration
 
 I am open to **research collaborations** in my areas of interest. If you are working on related problems or exploring potential collaboration opportunities, feel free to reach out.
 
