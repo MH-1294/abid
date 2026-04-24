@@ -1,28 +1,32 @@
 ---
-layout: profiles
+layout: page
 permalink: /people/
-title: people
-description: members of the lab or group
+title: collaborators
+description: research supervision and collaboration network
 nav: true
 nav_order: 7
-
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
 ---
+
+<div class="row">
+
+<div class="col-sm-6 mt-3 mt-md-0">
+<div class="card">
+<div class="card-body">
+<h5 class="card-title">Dr. JingTao Yao</h5>
+<p class="card-text">Professor, Department of Computer Science, University of Regina. PhD supervisor.</p>
+<a href="https://www2.cs.uregina.ca/~jtyao/" target="_blank">View Profile</a>
+</div>
+</div>
+</div>
+
+<div class="col-sm-6 mt-3 mt-md-0">
+<div class="card">
+<div class="card-body">
+<h5 class="card-title">Dm. Mehedi Hasan Abid</h5>
+<p class="card-text">PhD student in Computer Science at the University of Regina. Research interests include Machine Learning, Explainable AI, and Three-Way Clustering.</p>
+<a href="https://mh-1294.github.io/abid/" target="_blank">View Profile</a>
+</div>
+</div>
+</div>
+
+</div>
