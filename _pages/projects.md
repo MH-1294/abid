@@ -6,7 +6,7 @@ permalink: /projects/
 description: Selected research and applied projects.
 nav: true
 nav_order: 3
-display_categories: [research, applied, portfolio]
+display_categories: [research, applied]
 horizontal: false
 ---
 
