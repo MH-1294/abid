@@ -1,4 +1,4 @@
----
+
 ---
 layout: page
 title: projects
@@ -9,7 +9,7 @@ nav_order: 3
 display_categories: [research, applied, portfolio]
 horizontal: false
 ---
----
+
 
 <!-- pages/projects.md -->
 <div class="projects">
