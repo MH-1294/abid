@@ -6,8 +6,6 @@ nav: true
 nav_order: 4
 ---
 
-## Teaching
-
 I have experience teaching undergraduate computer science courses across multiple roles, including Lecturer, Instructor, Lab Instructor, and Teaching Assistant. My teaching emphasizes clarity, structured learning, and practical application, helping students connect theoretical concepts with real-world problem solving.
 
 ---
