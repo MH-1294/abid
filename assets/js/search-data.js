@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-collaborators",
           title: "collaborators",
-          description: "research supervision and collaboration network",
+          description: "Research supervision and collaboration network",
           section: "Navigation",
           handler: () => {
             window.location.href = "/abid/people/";
@@ -438,11 +438,6 @@ ninja.data = [{
           description: "Experimental machine learning pipelines supporting research development.",
           section: "Projects",handler: () => {
               window.location.href = "/abid/projects/3_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/abid/projects/7_project/";
             },},{
         id: 'social-linkedin',
         title: 'LinkedIn',
