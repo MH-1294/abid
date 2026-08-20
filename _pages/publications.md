@@ -7,8 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-## Recent Publications (In Reverse Chronological Order)
-
 [Google Scholar profile](https://scholar.google.com/citations?user=SeRSZYcAAAAJ&hl=en)
 
 <!--
