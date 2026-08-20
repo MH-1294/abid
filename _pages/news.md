@@ -21,7 +21,7 @@ Keep the newest items at the top of each year.
 #### July - Shad Regina
 
 - Served as a Program Assistant for **Shad Regina 2026** at the University of Regina, supporting 97 high-school students during the residential program.
-- Facilitated workshops, team-building activities, student presentations, and program activities, and mentored seven students within my house group.
+- Conducted a workshop, [Pitch Perfect Lab](https://pitch-perfect-lab.vercel.app/index.html), and facilitated team-building activities, student presentations, and program activities while mentoring seven students within my house group.
 
 #### July - Conference Paper
 
