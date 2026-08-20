@@ -14,10 +14,6 @@ Keep the newest items at the top of each year.
 
 ## 2026
 
-#### August - Shad Canada
-
-- Completed and submitted my Shad Regina 2026 Program Report following the month-long residential program at the University of Regina.
-
 #### August - Public Talk
 
 - Gave an online talk for Global Study on higher education and academic preparation, delivered in Bengali. [Video](https://www.facebook.com/admission.acd/videos/1077718938268325)
@@ -43,6 +39,10 @@ Keep the newest items at the top of each year.
 
 - Completed **First Aid certification** through the **Canadian Red Cross**.
 
+#### February - Startup Bootcamp
+
+- Won the **People's Choice Award** with **Agrovision** at the University of Regina Startup Bootcamp. Agrovision uses drone technology and AI to detect crop disease in real time and provide farmers with actionable insights. [University of Regina Startup Bootcamp](https://www.uregina.ca/graduate-studies-research/gate/startup-bootcamp.html)
+
 #### January - Lab2Market
 
 - Participated in **Lab2Market** with the _PotatoLeaf Doctor_ project, exploring AI-assisted potato disease detection and practical applications in agriculture.
@@ -51,7 +51,7 @@ Keep the newest items at the top of each year.
 
 #### November - AgTech Innovation
 
-- Won the **People's Choice Award** at the **24-Hour Startup AgTech Hackathon** for **Agrovision**, an AgTech project using drone technology and AI to detect crop disease in real time. [University of Regina Startup Bootcamp](https://www.uregina.ca/graduate-studies-research/gate/startup-bootcamp.html)
+- Participated in a **24-Hour Startup AgTech Hackathon** with an AgTech innovation project.
 - Reflected on the experience in _[My 24-Hour Hackathon Journey: From Competitive Programming to Winning People's Choice](https://medium.com/@dmabid2050/my-24-hour-hackathon-journey-from-competitive-programming-to-winning-peoples-choice-98e8cfe595e0)_.
 
 #### November - Research Publication
