@@ -16,11 +16,11 @@ description: >
 footer_text: >
   © 2026 Dm. Mehedi Hasan Abid · University of Regina
 
-keywords: phd, ai, machine learning, computer vision, portfolio
+keywords: Dm. Mehedi Hasan Abid, dmmehedi, PhD, University of Regina, machine learning, computer vision, explainable AI, three-way clustering, agricultural domain shift
 lang: en
 icon: ⚛️
 
-url: "https://mh-1294.github.io"
+url: "https://dmmehedi.github.io"
 baseurl: "/abid"  # since your repo is named 'abid', this must match
 
 last_updated: false

@@ -27,7 +27,7 @@ I led the project idea, design direction, content structure, and development of 
 ## Links
 
 - 🌐 **Live Demo:** https://dailyspeak.vercel.app/  
-- 💻 **GitHub:** https://github.com/MH-1294/-dailyspeak  
+- 💻 **GitHub:** https://github.com/dmmehedi/-dailyspeak  
 
 ## Status
 

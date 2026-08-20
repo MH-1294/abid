@@ -31,7 +31,7 @@ I led the project end-to-end, including:
 ## Links
 
 - 🌐 **Live Demo:** https://agrovision-ai-j4kz.vercel.app/  
-- 💻 **GitHub:** https://github.com/MH-1294/agrovision-ai  
+- 💻 **GitHub:** https://github.com/dmmehedi/agrovision-ai  
 
 ## Status
 

@@ -24,7 +24,7 @@ I designed and implemented experimental pipelines for model development, testing
 
 ## Links
 
-- 💻 **GitHub:** https://github.com/MH-1294/ML_DL  
+- 💻 **GitHub:** https://github.com/dmmehedi/ML_DL  
 
 ## Status
 

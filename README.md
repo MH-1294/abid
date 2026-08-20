@@ -5,7 +5,7 @@
 This repository contains my personal academic website built using the **al-folio Jekyll theme** and hosted on **GitHub Pages**.
 
 🔗 **Live Website:**  
-https://mh-1294.github.io/abid/
+https://dmmehedi.github.io/abid/
 
 ---
 
