@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/abid/cv/";
           },
+        },{id: "nav-news",
+          title: "news",
+          description: "Selected academic, research, teaching, and professional updates.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/abid/news/";
+          },
         },{id: "nav-collaborators",
           title: "collaborators",
           description: "Research supervision and collaboration network",
