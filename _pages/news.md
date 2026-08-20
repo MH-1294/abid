@@ -69,15 +69,6 @@ Keep the newest items at the top of each year.
 - Won **3rd Place in the Lightning Talk Competition** at Research Week 2025, University of Regina.
 - Reflected on the experience in _[How I Turned Failure into Growth: My Journey to Winning at the Research Week](https://medium.com/write-a-catalyst/how-i-turned-failure-into-growth-my-journey-to-winning-at-the-research-week-1472231527cc)_.
 
-#### Teaching
-
-- Served as a **Lab Instructor for CS 110: Programming and Problem Solving** at the University of Regina.
-- Supported undergraduate computer science courses as a **Teaching Assistant**, including Artificial Intelligence and Digital Systems Architecture.
-
-#### Research Assistantship
-
-- Served as a **Research Assistant** at the University of Regina's Centre for Teaching and Learning, supporting institutional research, data analysis, structured datasets, and academic documentation.
-
 ## 2024
 
 #### September - PhD
