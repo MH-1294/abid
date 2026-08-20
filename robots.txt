@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mh-1294.github.io/abid/sitemap.xml
+Sitemap: https://dmmehedi.github.io/abid/sitemap.xml
