@@ -21,9 +21,9 @@ and replace it with the paper page after publication.
 
 ## 2026
 
-1. D. M. H. Abid and J. T. Yao, [Rule-Based Classification and Clustering for Thematic Analysis of Research Papers](https://ieeexplore.ieee.org/document/11393808/), IEEE Computing and Communication Workshop and Conference (CCWC), pp. 305-310, 2026.
+1. D. M. H. Abid and J. T. Yao, [CRAT adversarial robustness work](https://acivsconf.org/acivs2026/), Advanced Concepts for Intelligent Vision Systems (ACIVS), accepted, 2026.
 
-2. D. M. H. Abid and J. T. Yao, [CRAT adversarial robustness work](https://acivsconf.org/acivs2026/), Advanced Concepts for Intelligent Vision Systems (ACIVS), accepted, 2026.
+2. D. M. H. Abid and J. T. Yao, [Rule-Based Classification and Clustering for Thematic Analysis of Research Papers](https://ieeexplore.ieee.org/document/11393808/), IEEE Computing and Communication Workshop and Conference (CCWC), pp. 305-310, 2026.
 
 ## 2023
 
