@@ -4,7 +4,7 @@
     "label": "PhD Student in Computer Science",
     "image": "",
     "email": "dha921@uregina.ca",
-    "url": "https://mh-1294.github.io/abid/",
+    "url": "https://dmmehedi.github.io/abid/",
     "summary": "PhD student in Computer Science at the University of Regina. Research interests include Machine Learning, Explainable AI, Deep Learning, and Three-Way Clustering.",
     "location": {
       "city": "Regina",
@@ -15,7 +15,7 @@
       {
         "network": "Google Scholar",
         "username": "Dm. Mehedi Hasan Abid",
-        "url": "https://scholar.google.com/citations?user=0Z2IPU0AAAAJ&hl=en"
+        "url": "https://scholar.google.com/citations?user=SeRSZYcAAAAJ&hl=en"
       },
       {
         "network": "LinkedIn",
@@ -24,8 +24,8 @@
       },
       {
         "network": "GitHub",
-        "username": "MH-1294",
-        "url": "https://github.com/MH-1294"
+        "username": "dmmehedi",
+        "url": "https://github.com/dmmehedi"
       }
     ]
   },
@@ -93,6 +93,12 @@
     }
   ],
   "awards": [
+    {
+      "title": "First Prize",
+      "date": "2026-08-01",
+      "awarder": "Summer Research Institute 2026, University of Regina",
+      "summary": "Won First Prize at the Summer Research Institute 2026, University of Regina."
+    },
     {
       "title": "1st Place – Poster Presentation",
       "date": "2025-10-01",

@@ -14,6 +14,10 @@ Keep the newest items at the top of each year.
 
 ## 2026
 
+#### August - Summer Research Institute
+
+- Won **First Prize** at the **Summer Research Institute 2026**, University of Regina.
+
 #### August - Public Talk
 
 - Gave an online talk for Global Study on higher education and academic preparation, delivered in Bengali. [Video](https://www.facebook.com/admission.acd/videos/1077718938268325)

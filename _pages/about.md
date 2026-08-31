@@ -52,7 +52,7 @@ I am open to **research collaborations** in my areas of interest. If you are wor
 <!--
 ## 🔗 Links
 
-- 📄 [Google Scholar](https://scholar.google.com/citations?user=0Z2IPU0AAAAJ&hl=en)  
+- 📄 [Google Scholar](https://scholar.google.com/citations?user=SeRSZYcAAAAJ&hl=en)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mhabid/)  
 - 🏫 [DIU Faculty Profile](https://daffodilvarsity.edu.bd/admin-detail/abid-663f56f16600)  
 
